@@ -1,4 +1,5 @@
 # Article Reviews
+This repository contains my reviews of articles related to collaborative learning and other topics (Mostly Computer Networking). I will keep updating this repository as I read more articles and have time to write reviews.
 
 ## - Collaborative Learning
 - PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments
